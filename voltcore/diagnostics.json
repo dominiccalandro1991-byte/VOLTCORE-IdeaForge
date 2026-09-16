@@ -1,0 +1,29 @@
+{
+  "repo": "dominiccalandro1991-byte/VOLTCORE-IdeaForge",
+  "incomplete": true,
+  "missing_dependencies": [
+    "runtime manifest (package.json | index.html | Cargo.toml)"
+  ],
+  "required_build_specs": [
+    "define a build entry (npm run build or static index.html)",
+    "voltcore-heartbeat workflow"
+  ],
+  "file_count": 15,
+  "root_entries": [
+    "00_README.md",
+    "01_ARCHITECTURE.md",
+    "02_DATA_MODEL.md",
+    "03_SCORING_RUBRIC.md",
+    "04_KILL_RULES.md",
+    "05_DOMAIN_DICTIONARY.md",
+    "06_WORKFLOWS.md",
+    "capability_upgrades.md",
+    "evolution_signal_template.md",
+    "handoff_package_template.md",
+    "idea_record_template.md",
+    "insights.md",
+    "patterns.md",
+    "quality_log.md",
+    "version_history.md"
+  ]
+}
